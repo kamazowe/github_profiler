@@ -1,8 +1,8 @@
 # Get Started
-   cmd
-   ** Add Dependencies
+  
+   ##### Add Dependencies
    >> npm install
-   ** Build with webpack and watch
+   ##### Build with webpack and watch
    >> npm run webpack
-   ** run live-server
+   ##### run live-server
    >> npm start
